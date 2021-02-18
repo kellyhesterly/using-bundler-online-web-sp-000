@@ -8,5 +8,5 @@ gem "pry"
 end
 
 group :test do
-  gem "rspecs"
+  gem "rspec"
 end
